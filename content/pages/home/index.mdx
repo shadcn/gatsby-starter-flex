@@ -1,0 +1,49 @@
+---
+title: Home
+excerpt: This is the home page.
+is_front: true
+---
+
+<Hero 
+  heading="Hero Component"
+  lead="Eius necessitatibus nobis quam repudiandae officia"
+  imageUrl="placeholder.jpg"
+  links={<Button>Learn more</Button>}
+  style={{
+    bg: "muted",
+    figure: {
+      maxWidth: "70%",
+    }
+  }}
+/>
+
+<Section 
+  heading="Edit this page"
+>
+<Div style={{
+  maxWidth: ["none", "none", "60%"]
+}}>
+
+### Add a block
+
+Edit `content/pages/home/index.mdx` to add a card.
+
+```markdown
+<Card 
+  heading="Iusto natus"
+  imageUrl="placeholder.jpg"
+>
+
+Itaque rerum harum amet. Iusto natus corrupti minima esse. Eaque nam voluptates veritatis.
+
+</Card>
+```
+
+### Customize the theme
+
+Update the `primary` value in `src/gatsby-theme-flex/theme.js` to change the color of the button below.
+
+<Button>A button</Button>
+
+</Div>
+</Section>
