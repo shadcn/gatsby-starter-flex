@@ -13,14 +13,14 @@ A Gatsby starter to kick off a site using the <a href="https://github.com/arshad
   <img src="https://arshad.io/uploads/gatsby-theme-flex.gif" alt="flex preview" />
 </p>
 
-<h3 align="center"><code>gatsby new site https://github.com/arshad/gatsby-starter-flex</code></h3>
+<h3 align="center"><code>gatsby new site arshad/gatsby-starter-flex</code></h3>
 
 ## Installation
 
 ### Step 1: Run the following command to create a new site
 
 ```shell
-gatsby new site https://github.com/arshad/gatsby-starter-flex
+gatsby new site arshad/gatsby-starter-flex
 ```
 
 ### Step 2: Configure `.env`
