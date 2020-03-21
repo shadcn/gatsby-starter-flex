@@ -1,6 +1,6 @@
 {
   "name": "gatsby-starter-flex",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "private": true,
   "author": "arshad <arshad@chummun.com>",
   "license": "MIT",
@@ -28,14 +28,14 @@
     "preview": "gatsby build && gatsby serve"
   },
   "devDependencies": {
-    "gatsby": "2.19.43",
-    "react": "16.13.0",
-    "react-dom": "16.13.0"
+    "gatsby": "2.20.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   },
   "dependencies": {
-    "gatsby": "2.19.43",
-    "gatsby-theme-flex": "^0.2.3",
-    "react": "16.13.0",
-    "react-dom": "16.13.0"
+    "gatsby": "2.20.2",
+    "gatsby-theme-flex": "^0.2.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   }
 }
