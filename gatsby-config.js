@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: `Flex Starter`,
     description: `Starter for the Flex theme.`,
-    siteUrl: process.env.SITE_URL,
+    siteUrl: process.env.SITE_URL || `http://localhost`,
     logo: `logo.png`,
     copyright: `© YYYY Flex. All rights reserved.`,
     headerLinks: [

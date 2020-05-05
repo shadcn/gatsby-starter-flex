@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.5](https://github.com/arshad/gatsby-starter-flex/compare/gatsby-starter-flex@1.2.4...gatsby-starter-flex@1.2.5) (2020-05-05)
+
+
+### Bug Fixes
+
+* format code ([f372459](https://github.com/arshad/gatsby-starter-flex/commit/f3724590eded596fd42c0e2f9ef3785140a97d92))
+* unpin dependencies versions ([449f7bb](https://github.com/arshad/gatsby-starter-flex/commit/449f7bb84cc2fd566f065b3d96c28a7ab64a1de8))
+* update packages ([3324972](https://github.com/arshad/gatsby-starter-flex/commit/3324972976ec6a766b24078e1ec3b4a6414ae211))
+
+
+
+
+
 ## [1.2.4](https://github.com/arshad/gatsby-starter-flex/compare/gatsby-starter-flex@1.2.3...gatsby-starter-flex@1.2.4) (2020-03-21)
 
 **Note:** Version bump only for package gatsby-starter-flex
