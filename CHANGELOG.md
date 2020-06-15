@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.6](https://github.com/arshad/gatsby-starter-flex/compare/gatsby-starter-flex@1.2.5...gatsby-starter-flex@1.2.6) (2020-06-15)
+
+**Note:** Version bump only for package gatsby-starter-flex
+
+
+
+
+
 ## [1.2.5](https://github.com/arshad/gatsby-starter-flex/compare/gatsby-starter-flex@1.2.4...gatsby-starter-flex@1.2.5) (2020-05-05)
 
 
