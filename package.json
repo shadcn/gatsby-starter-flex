@@ -1,6 +1,6 @@
 {
   "name": "gatsby-starter-flex",
-  "version": "1.2.6",
+  "version": "1.3.0",
   "private": true,
   "author": "arshad <arshad@chummun.com>",
   "license": "MIT",
@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "gatsby": "^2.21.11",
-    "gatsby-theme-flex": "^0.3.0",
+    "gatsby-theme-flex": "^0.4.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }

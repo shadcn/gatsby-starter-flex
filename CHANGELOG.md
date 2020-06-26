@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/arshad/gatsby-starter-flex/compare/gatsby-starter-flex@1.2.6...gatsby-starter-flex@1.3.0) (2020-06-26)
+
+
+### Features
+
+* **flex:** add support for twitter summary cards ([5d48cd8](https://github.com/arshad/gatsby-starter-flex/commit/5d48cd8d8d18530c2bf0f7d46481498e2d085e9b))
+
+
+
+
+
 ## [1.2.6](https://github.com/arshad/gatsby-starter-flex/compare/gatsby-starter-flex@1.2.5...gatsby-starter-flex@1.2.6) (2020-06-15)
 
 **Note:** Version bump only for package gatsby-starter-flex
